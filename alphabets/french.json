@@ -34,5 +34,8 @@
     "э": "e",
     "ю": "iu",
     "я": "ia"
+  },
+  "examples": {
+    "Чехов, Щукин": "Tchekhov, Chtchoukin"
   }
 }
